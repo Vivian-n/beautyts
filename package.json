@@ -1,0 +1,15 @@
+{
+	"name": "tstest",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"dev": "tsc -noEmitOnError --watch"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"typescript": "^5.2.2"
+	}
+}
